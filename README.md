@@ -16,6 +16,5 @@ SC.Wapens = Hier kan je wapens toevoegen en een standaard aantal waarmee het scr
 Overal zit een goede protectie op zodat cheaters het niet kunnen exploiten.
 
 **Escrow:**
-Al onze scripts zijn escrowed zodat het niet geleaked kan worden en het product zijn waarde behoudt.
-
+Al onze scripts zijn escrowed zodat het niet geleaked kan worden en het product zijn waarde behoudt. Je krijgt het script gewoon getransfered naar je **Keymaster** zodat je het kan gebruiken.
 # Prijs: 10€
